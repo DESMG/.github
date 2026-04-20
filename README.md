@@ -1,1 +1,1 @@
-# .github
+# DESMG Ltd.
